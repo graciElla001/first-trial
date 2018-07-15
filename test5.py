@@ -20,6 +20,5 @@ guru = input("Personal Guru and Coach: ")
 games = input("Computer Games: ")
 
 total = car + rent + jet + gifts + food + staff + guru + games
-
-
+print (total)
 input("\n\nPress the enter key to exit.")
